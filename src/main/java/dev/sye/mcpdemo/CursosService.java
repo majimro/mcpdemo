@@ -31,6 +31,8 @@ public class CursosService {
         cursos.add(new Cursos("Spring", "https://spring.io"));
         cursos.add(new Cursos("Spring Boot", "https://spring.io/projects/spring-boot"));
         cursos.add(new Cursos("Spring Cloud", "https://spring.io/projects/spring-cloud"));
+        cursos.add(new Cursos("Aspectos básicos de Azure", "https://learn.microsoft.com/es-es/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification"));
+        cursos.add(new Cursos("Ingeniero Asociado de IA de Azure", "https://learn.microsoft.com/es-es/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification"));
     }
     
 }
